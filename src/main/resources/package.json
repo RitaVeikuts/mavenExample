@@ -1,0 +1,10 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "dependencies": {
+    "dep1": 123,
+    "dep2": 321
+    
+  },
+  "arr": ["1", "1", "2", "5"]
+}
